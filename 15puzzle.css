@@ -1,0 +1,94 @@
+.footer{
+    margin: 0;
+    padding-top: 20px;
+    font-family: 'Amiri', serif;
+    text-align: center; 
+    color: #888;
+}
+.footer-link{
+    margin: 0;
+    padding-top: 5px;
+    font-family: 'Amiri', serif;
+    text-align: center; 
+    text-decoration: none;
+    color: #888;
+}
+h1 {
+    font-size: 2vw;
+    font-family: 'Source Code Pro';
+}
+h2 {
+    font-size: 2vw;
+    font-family: 'Source Code Pro';
+}
+h3 {
+    font-size: 2vw;
+    font-family: 'Source Code Pro';
+}
+
+.bg-white {
+    background-color: #000;
+}
+.setElement{
+    height: 80px;
+    width: 80px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px;  
+}
+.settable{
+    border: 8px solid #515A5A;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center; 
+    font-size: 2vw;
+    color: #F2F3F4 ;
+    font-family: 'Source Code Pro';
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+}
+.setHeadertable{
+    height: 80px;
+    text-align: center; 
+    font-size: 2vw;
+    color: #515A5A;
+    font-family: 'Source Code Pro';
+}
+.setbuttonleft{
+    border: 3px solid #F2F3F4;
+    border-radius: 5px; 
+    background-color: #F2F3F4;
+    font-family: 'Source Code Pro';
+}
+.setbuttonright{
+    border: 3px solid #F2F3F4;
+    border-radius: 5px; 
+    background-color: #F2F3F4;
+    font-family: 'Source Code Pro';
+}
+.buttonleft{
+    cursor: pointer;
+    height: 40px;
+    width: 150px;
+    background-color: #F2F3F4;
+    border-color: #F2F3F4;
+    color: #515A5A;
+    border-radius: 5px;  
+    font-size: 2vw;
+    font-family: 'Source Code Pro';
+}
+.buttonright{
+    cursor: pointer;
+    height: 40px;
+    width: 150px;
+    background-color: #515A5A;
+    border-color: #515A5A;
+    color: #F2F3F4;
+    border-radius: 5px;  
+    font-size: 2vw;
+    font-family: 'Source Code Pro';
+}
